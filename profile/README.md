@@ -1,5 +1,5 @@
 <h3>농장을 한 눈에 담다,</h3>
-<h1>농담 🌿</h1>
+<h1>농담 🧑‍🌾</h1>
 
 
 
@@ -30,7 +30,7 @@
 <strong>프로젝트 기간</strong> <br/> 22.06.24 - 22.08.05 (6주)
 
 
-<h3>Member 🧑‍🌾 </h3>
+<h3>Member 🧑‍💻 </h3>
 	
 <strong>FE</strong> 	손윤주, 김수진	<br/>
 <strong>BE</strong> 	백규현, 이병관, 이경동<br/>
