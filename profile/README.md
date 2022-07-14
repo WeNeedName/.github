@@ -49,6 +49,7 @@
 
 <br/><br/>
 <h2>🔥 이슈 및 트러블슈팅</h2>
-
- <a href="https://rumbling-dentist-55b.notion.site/6f31e9608c1f4bc4a791eb850e4d8dca" > 📒 FE - 장부 월별 내역 상태관리</a><br/>
-<a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-56f5d95764af4b80a9818352013cc307"> 👨‍🔧 BE - Redis, 모니터링 툴 사용하기</a>
+<h4>FE</h4>
+ <a href="https://rumbling-dentist-55b.notion.site/6f31e9608c1f4bc4a791eb850e4d8dca" > 📒 장부 월별 내역 상태관리</a><br/>
+ <h4>BE</h4>
+<a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-56f5d95764af4b80a9818352013cc307"> 👨‍🔧 Redis, 모니터링 툴 사용하기</a>
