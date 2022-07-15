@@ -36,6 +36,14 @@
 <strong>BE</strong> 	백규현, 이병관, 이경동<br/>
 <strong>Designer</strong>	정기혁	
 <br/><br/>
+
+<h2>🩻 Service Architecture</h2>
+<br/><br/><br/><br/>
+<a href='https://ifh.cc/v-8HHVWl' target='_blank'><img src='https://ifh.cc/g/8HHVWl.png' border='0'></a>
+<br/><br/><br/><br/>
+<a href='https://ifh.cc/v-fcFoq6' target='_blank'><img src='https://ifh.cc/g/fcFoq6.jpg' border='0'></a>
+
+<br/><br/><br/><br/>
 <h2>🛠 Tech & Platfrom</h2>
 
 <h3>Front-End </h3>
