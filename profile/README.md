@@ -77,4 +77,4 @@
 <h2>⛳️ 추후 계획</h2>
 <h4>FE - Github Actions CI/CD 구축</h4>
 <h4>FE - 디자인 적용, keyframes 애니메이션으로 UX 강화</h4>
-<h4>BE - CI/CD 및 서버 안정화</h4>
+<h4>BE - 서버 안정화 (CPU점유율, DB응답속도 최적화)</h4>
