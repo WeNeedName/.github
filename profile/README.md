@@ -71,7 +71,7 @@
  <a href="https://www.notion.so/ddef012e021b485a85f85440a5af15f7" > 📒 장부 월별 내역 페이지네이션</a><br/>
  <a href="https://www.notion.so/throttle-f4adb557f7c34fb1b2b650ef33389073" > 👉 스와이프 throttle로 렌더링 제어하기</a><br/>
  <h4>BE</h4>
-<a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-56f5d95764af4b80a9818352013cc307"> 👨‍🔧 Redis, 서버 모니터링</a>
+<a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-56f5d95764af4b80a9818352013cc307"> 👨‍🔧 Redis, 서버 모니터링</a><br />
 <a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-CI-CD-62eda4f967a549e598aea8d9deeb1e02"> ⚙️ CI/CD </a>
 <br/><br/>
 <h2>⛳️ 추후 계획</h2>
