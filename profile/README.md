@@ -71,7 +71,6 @@
 <img src="https://img.shields.io/badge/NGINX-3FC752.svg?&style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/AMAZON%20C2-58C4C7.svg?&style=for-the-badge&logo=AMAZON%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/AMAZON%20S3-C78348.svg?&style=for-the-badge&logo=AMAZON%20S3&logoColor=white">
-<img src=""> 
 </div>
 
 <h3>Design </h3>
