@@ -73,7 +73,14 @@
 </div>
 
 <h3>Design </h3>
+<div>
+<img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-DA1F26.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
+</div>
 <h3>Tools</h3>
+<div>
+<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
+</div>
 
 <br/><br/>
 <h2>📚 주요 라이브러리</h2>
