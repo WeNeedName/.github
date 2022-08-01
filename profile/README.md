@@ -85,7 +85,6 @@
 <div>
 <img src="https://img.shields.io/badge/AMAZON%20EC2-58C4C7.svg?&style=for-the-badge&logo=AMAZON%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/AMAZON%20S3-C78348.svg?&style=for-the-badge&logo=AMAZON%20S3&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
 <h3>Design </h3>
@@ -95,7 +94,7 @@
 </div>
 <h3>Tools</h3>
 <div>
-<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
 </div>
