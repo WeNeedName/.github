@@ -18,50 +18,49 @@
 사용자 작물 월별/연도별 수확량 통계, 월별/연도별 매출, 비용, 순이익 통계<span/>
  <br/><br/>
 <a href='https://ifh.cc/v-yfj7Wc' target='_blank'><img src='https://ifh.cc/g/yfj7Wc.png' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
  <h3>⛅️ 실시간 날씨정보 제공</h3>
 
 <span>사용자 지역의 실시간 날씨 상세정보, 시간별/주간 날씨정보 [open api](https://openweathermap.org/api/one-call-api) </span>
  <br/><br/>
 <a href='https://ifh.cc/v-4mD6g8' target='_blank'><img src='https://ifh.cc/g/4mD6g8.png' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
  <h3>📈 지역/작물별 도/소매 시세정보 제공</h3>
 <span>국내 17개 지역 中 사용자 희망 시세지역의 월별/연도별 도/소매 시세 정보</span>  
 <br/>
 <span>102개 작물 中 검색 조회, 사용자 작물의 당일 시세 조회, 예상 판매 금액 조회
 </span>
- 
  [open api](https://www.kamis.or.kr/customer/reference/openapi_list.do?action=detail&boardno=2)
  <br/><br/>
  <a href='https://ifh.cc/v-tZR1nt' target='_blank'><img src='https://ifh.cc/g/tZR1nt.png' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
  <h3>📆 일정관리</h3>
 <span>월별 / 주간 타임라인 관리, 이번 주 일정 조회</span>
 <br/><br/>
 <a href='https://ifh.cc/v-3Mm31d' target='_blank'><img src='https://ifh.cc/g/3Mm31d.png' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
  <h3>💵 농장장부</h3>
 <span>월별 수입&지출 내역 관리, 월별 결산 조회 및 관리, 최근 내역 조회</span>
 <br/><br/>
 <a href='https://ifh.cc/v-7zBKNQ' target='_blank'><img src='https://ifh.cc/g/7zBKNQ.png' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
  <h3>✍️ 농장일지</h3>
 <span>농작업 노하우, 회고 기록 및 관리</span>
 <br/><br/>
 <a href='https://ifh.cc/v-X0z8ng' target='_blank'><img src='https://ifh.cc/g/X0z8ng.jpg' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <h2>🩻 Service Architecture</h2>
 <br/><br/>
 <a href='https://ifh.cc/v-8HHVWl' target='_blank'><img src='https://ifh.cc/g/8HHVWl.png' border='0'></a>
 <br/><br/>
 <a href='https://ifh.cc/v-fcFoq6' target='_blank'><img src='https://ifh.cc/g/fcFoq6.jpg' border='0'></a>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <h2>🛠 Tech & Platfrom</h2>
 
@@ -113,8 +112,8 @@
 <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white">
 </div>
-
 <br/><br/>
+	
 <h2>🛠 주요 기술</h2>
 <table border="1">
 	<th>사용 기술</th>
