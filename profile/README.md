@@ -1,7 +1,8 @@
 
 <h3>농장을 한 눈에 담다,</h3>
 <h1>농담 🧑‍🌾</h1>
-<img src="https://user-images.githubusercontent.com/94617638/182077520-10c448e6-80a8-4647-b880-ef3bfedf2e7e.png">  
+<img src="https://user-images.githubusercontent.com/94617638/182112917-fcbd84ad-a16f-402b-8d13-e9d9c5d530ff.png">  
+
 <br/>
 
 <span>농담은 <strong>귀농한 청년</strong> 혹은 <strong>농장 관리자</strong>에게 
