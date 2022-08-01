@@ -13,18 +13,41 @@
 
 <h2>서비스 핵심기능</h2>
 
-01  ⛅️ 실시간 <strong> 날씨정보</strong> 제공 [open api](https://openweathermap.org/api/one-call-api)
+ <h3>📊 농장 관리 현황</h3>
+ <span>올해 수입&지출 총계, 작업시간 통계 및 작년대비 상승/감소율 <br/>
+사용자 작물 월별/연도별 수확량 통계, 월별/연도별 매출, 비용, 순이익 통계<span/>
 
-02   📈 지역/작물별  <strong>도/소매 시세정보</strong> 제공 [open api](https://www.kamis.or.kr/customer/reference/openapi_list.do?action=detail&boardno=2)
+<a href='https://ifh.cc/v-yfj7Wc' target='_blank'><img src='https://ifh.cc/g/yfj7Wc.png' border='0'></a>
 
-03  📆 <strong>일정관리</strong> (Todo List) 
+ <h3>⛅️ 실시간 날씨정보 제공</h3>
 
-04 💵 <strong>농장장부</strong> (수입, 지출 기록)
+<span>사용자 지역의 실시간 날씨 상세정보, 시간별/주간 날씨정보 [open api](https://openweathermap.org/api/one-call-api) </span>
+<a href='https://ifh.cc/v-4mD6g8' target='_blank'><img src='https://ifh.cc/g/4mD6g8.png' border='0'></a>
 
-05   ✍️ <strong>농장일지</strong>
+ <h3>📈 지역/작물별 도/소매 시세정보 제공</h3>
+<span>국내 17개 지역 中 사용자 희망 시세지역의 월별/연도별 도/소매 시세 정보</span>  
+<br/>
+<span>102개 작물 中 검색 조회, 사용자 작물의 당일 시세 조회, 예상 판매 금액 조회
+</span>
+ 
+ [open api](https://www.kamis.or.kr/customer/reference/openapi_list.do?action=detail&boardno=2)
+ 
+ <a href='https://ifh.cc/v-tZR1nt' target='_blank'><img src='https://ifh.cc/g/tZR1nt.png' border='0'></a>
 
-06 📊 <strong>농장 관리 현황</strong> (연도별 매출현황, 수확량, 수입&지출 통계, 작업시간 통계)
-<br/><br/>
+ <h3>📆 일정관리</h3>
+<span>월별 / 주간 타임라인 관리, 이번 주 일정 조회</span>
+<a href='https://ifh.cc/v-3Mm31d' target='_blank'><img src='https://ifh.cc/g/3Mm31d.png' border='0'></a>
+
+ <h3>💵 농장장부</h3>
+<span>월별 수입&지출 내역 관리, 월별 결산 조회 및 관리, 최근 내역 조회</span>
+<a href='https://ifh.cc/v-7zBKNQ' target='_blank'><img src='https://ifh.cc/g/7zBKNQ.png' border='0'></a>
+
+ <h3>✍️ 농장일지</h3>
+<span>농작업 노하우, 회고 기록 및 관리</span>
+
+<a href='https://ifh.cc/v-X0z8ng' target='_blank'><img src='https://ifh.cc/g/X0z8ng.jpg' border='0'></a>
+
+
 <h2>팀 소개</h2>
 <br/>
 <strong>프로젝트 기간</strong> <br/> 22.06.24 - 22.08.05 (6주)
@@ -98,7 +121,3 @@
 <a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-56f5d95764af4b80a9818352013cc307"> 👨‍🔧 Redis, 서버 모니터링</a><br />
 <a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-CI-CD-62eda4f967a549e598aea8d9deeb1e02"> ⚙️ CI/CD </a>
 <br/><br/>
-<h2>⛳️ 추후 계획</h2>
-<h4>FE - Github Actions CI/CD 구축</h4>
-<h4>FE - 디자인 적용, keyframes 애니메이션으로 UX 강화</h4>
-<h4>BE - 서버 안정화 (CPU점유율, DB응답속도 최적화)</h4>
