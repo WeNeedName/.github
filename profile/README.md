@@ -72,16 +72,20 @@
 <h3>Back-End </h3>
 <div>
 <img src="https://img.shields.io/badge/spring%20boot-9FC919.svg?&style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-C90E05.svg?&style=for-the-badge&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-1BC5C9.svg?&style=for-the-badge&logo=Json%20Web%20Tokens&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000.svg?&style=for-the-badge&logo=Json%20Web%20Tokens&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-2075C9.svg?&style=for-the-badge&logo=MYSQL&logoColor=white">
+<img src="https://img.shields.io/badge/REDIS-C92860.svg?&style=for-the-badge&logo=REDIS&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/GRAFANA-C930C3.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
-<img src="https://img.shields.io/badge/REDIS-C92860.svg?&style=for-the-badge&logo=REDIS&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-3FC752.svg?&style=for-the-badge&logo=NGINX&logoColor=white">
-<img src="https://img.shields.io/badge/AMAZON%20C2-58C4C7.svg?&style=for-the-badge&logo=AMAZON%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/GRAFANA-C930C3.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-C90E05.svg?&style=for-the-badge&logo=Jenkins&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/AMAZON%20EC2-58C4C7.svg?&style=for-the-badge&logo=AMAZON%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/AMAZON%20S3-C78348.svg?&style=for-the-badge&logo=AMAZON%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
 <h3>Design </h3>
