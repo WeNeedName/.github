@@ -47,19 +47,6 @@
 
 <a href='https://ifh.cc/v-X0z8ng' target='_blank'><img src='https://ifh.cc/g/X0z8ng.jpg' border='0'></a>
 
-
-<h2>팀 소개</h2>
-<br/>
-<strong>프로젝트 기간</strong> <br/> 22.06.24 - 22.08.05 (6주)
-
-
-<h3>Member 🧑‍💻 </h3>
-	
-<strong>FE</strong> 	손윤주, 김수진	<br/>
-<strong>BE</strong> 	백규현, 이병관, 이경동<br/>
-<strong>Designer</strong>	정기혁	
-<br/><br/>
-
 <h2>🩻 Service Architecture</h2>
 <br/><br/><br/><br/>
 <a href='https://ifh.cc/v-8HHVWl' target='_blank'><img src='https://ifh.cc/g/8HHVWl.png' border='0'></a>
@@ -110,7 +97,39 @@
 </div>
 
 <br/><br/>
-<h2>📚 주요 라이브러리</h2>
+<h2>🛠 주요 기술</h2>
+<table border="1">
+	<th>사용 기술</th>
+	<th>기술내용</th>
+	<tr>
+	    <td>CI/CD</td>
+	    <td>FE에서는  Github Actions, BE에서는 jenkins, nginx를 사용한 자동 빌드 및 무중단 배포 구현</td>
+	</tr>
+	<tr>
+	    <td>Refresh token</td>
+	    <td>JWT 토큰을 일정 시간마다 자동 발급하여 으로 인증시간을 늘리고 보안성 높임</td>
+	</tr>
+	<tr>
+	    <td>이메일 인증</td>
+	    <td>회원가입시 인증 이메일을 발송하여 사용자 확인</td>
+	</tr>
+	<tr>
+	    <td>소셜 로그인</td>
+	    <td>카카오를 통한 소셜 로그인</td>
+	</tr>
+	<tr>
+	    <td>Cache</td>
+	    <td>케시 데이터를 사용한 API 요청 최소화</td>
+	</tr>
+	<tr>
+	    <td>CloudFront</td>
+	    <td>정적 컨텐츠의 전송 속도를 높이고 HTTPS 적용을 통한 보안강화</td>
+	</tr>
+	<tr>
+	    <td>통계데이터 시각화</td>
+	    <td>ApexCharts 커스텀을 통해 통계 데이터를 다양한 그래프로 시각화</td>
+	</tr>
+    </table>
 
 <br/><br/>
 <h2>🔥 이슈 및 트러블슈팅</h2>
@@ -120,4 +139,16 @@
  <h4>BE</h4>
 <a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-56f5d95764af4b80a9818352013cc307"> 👨‍🔧 Redis, 서버 모니터링</a><br />
 <a href="https://elegant-burglar-a24.notion.site/BackEnd-TroubleShooting-CI-CD-62eda4f967a549e598aea8d9deeb1e02"> ⚙️ CI/CD </a>
+<br/><br/>
+	
+<h2>팀 소개</h2>
+<br/>
+<strong>프로젝트 기간</strong> <br/> 22.06.24 - 22.08.05 (6주)
+
+
+<h3>🧑‍🔧 제작자 </h3>
+	
+<strong>FE</strong> 	손윤주, 김수진	<br/>
+<strong>BE</strong> 	백규현, 이병관, 이경동<br/>
+<strong>Designer</strong>	정기혁	
 <br/><br/>
