@@ -58,46 +58,51 @@
 
 <h3>Front-End </h3>
 <div>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
 </div>
-
 <div>
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 	
 </div>
+
 <h3>Back-End </h3>
 <div>
-<img src="https://img.shields.io/badge/spring%20boot-9FC919.svg?&style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/spring Framework-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20boot&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000.svg?&style=for-the-badge&logo=Json%20Web%20Tokens&logoColor=white">
+</div>
+<div>
 <img src="https://img.shields.io/badge/MYSQL-2075C9.svg?&style=for-the-badge&logo=MYSQL&logoColor=white">
 <img src="https://img.shields.io/badge/REDIS-C92860.svg?&style=for-the-badge&logo=REDIS&logoColor=white">
-</div>
-<div>
-<img src="https://img.shields.io/badge/NGINX-3FC752.svg?&style=for-the-badge&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/GRAFANA-C930C3.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-C90E05.svg?&style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
 <div>
+<img src="https://img.shields.io/badge/jenkins-C90E05.svg?&style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/AMAZON%20EC2-58C4C7.svg?&style=for-the-badge&logo=AMAZON%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/AMAZON%20S3-C78348.svg?&style=for-the-badge&logo=AMAZON%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white">
 </div>
 
 <h3>Design </h3>
 <div>
-<img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-DA1F26.svg?&style=for-the-badge&logo=GRAFANA&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26.svg?&style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 <h3>Tools</h3>
 <div>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white">
 </div>
 
 <br/><br/>
