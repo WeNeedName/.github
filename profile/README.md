@@ -37,11 +37,11 @@
 <br/><br/><br/>
 
  <h3>📈 지역/작물별 도/소매 시세정보 제공</h3>
-<span>국내 17개 지역 中 사용자 희망 시세지역의 월별/연도별 도/소매 시세 정보</span>  
+<span>국내 17개 지역 中 사용자 희망 시세지역의 월별/연도별 도/소매 시세 정보</span>  <a href='https://www.kamis.or.kr/customer/reference/openapi_list.do?action=detail&boardno=2' target='_blank'>open api</a>
 <br/>
 <span>102개 작물 中 검색 조회, 사용자 작물의 당일 시세 조회, 예상 판매 금액 조회
 </span>
- [open api](https://www.kamis.or.kr/customer/reference/openapi_list.do?action=detail&boardno=2)
+ 
  <br/><br/>
  <a href='https://ifh.cc/v-tZR1nt' target='_blank'><img src='https://ifh.cc/g/tZR1nt.png' border='0'></a>
 <br/><br/><br/>
