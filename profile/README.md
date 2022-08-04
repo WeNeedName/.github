@@ -172,8 +172,4 @@
 
 
 <h3>🧑‍🔧 제작자 </h3>
-	
-<strong>FE</strong> 	손윤주, 김수진	<br/>
-<strong>BE</strong> 	백규현, 이병관, 이경동<br/>
-<strong>Designer</strong>	정기혁	
-<br/><br/>
+<a href='https://ifh.cc/v-KlXtRc' target='_blank'><img src='https://ifh.cc/g/KlXtRc.png' border='0'></a>
