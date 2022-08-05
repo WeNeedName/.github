@@ -11,6 +11,11 @@
 
  <a  href="https://nongdam.site" > 농담 둘러보기</a><br/>
 
+
+<br/><br/>
+<h2>📺 시연영상</h2>
+ <a  href="https://www.youtube.com/watch?v=Si81xlu5D74" > 농담 시연영상 링크</a><br/>
+ 
 <br/><br/>
 
 <h2>🩻 Service Architecture</h2>
