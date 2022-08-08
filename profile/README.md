@@ -13,8 +13,8 @@
 
 
 <br/><br/>
-<h2>📺 시연영상</h2>
- <a  href="https://www.youtube.com/watch?v=Si81xlu5D74" > 농담 시연영상 링크</a><br/>
+<h2>📺 발표영상</h2>
+ <a  href="https://www.youtube.com/watch?v=Si81xlu5D74" > 농담 발표영상 링크</a><br/>
  
 <br/><br/>
 
